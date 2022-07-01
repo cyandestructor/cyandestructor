@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bryan.duarte.dev@gmail.com**
 
-- 📄 Know about my experiences [Check my CV](https://github.com/cyandestructor/cyandestructor/blob/main/EN-CV-2021.pdf)
+- 📄 Know about my experiences [Check my CV](https://github.com/cyandestructor/cyandestructor/blob/main/EN-CV-2022.pdf)
 
 - ⚡ Fun fact **I enjoy riding a bicycle 🚲**
 
