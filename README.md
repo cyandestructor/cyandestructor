@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [Check my CV](https://github.com/cyandestructor/cyandestructor/blob/main/EN-CV-2022.pdf)
 
+- 🕹 **Play BrawlGuys [here](https://cyandestructor.github.io/Brawl-Guys/)**
+
 - ⚡ Fun fact **I enjoy riding a bicycle 🚲**
 
 <h3 align="left">Connect with me:</h3>
