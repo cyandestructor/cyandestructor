@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bryan.duarte.dev@gmail.com**
 
-- 📄 Know about my experiences [Check my CV](https://github.com/cyandestructor/cyandestructor/blob/main/EN-CV-2022.pdf)
+- 📄 Know about my experiences [Check my CV](https://github.com/cyandestructor/cyandestructor/blob/main/EN-CV-2023.pdf)
 
 - 🕹 **Play BrawlGuys [here](https://cyandestructor.github.io/Brawl-Guys/)**
 
